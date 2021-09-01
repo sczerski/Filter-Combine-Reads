@@ -1,5 +1,5 @@
 # filter-combine-reads
-This script accepts two required input files.
+Required Input:
 1) a fasta file of an OTU from Pacbio post-ccs/demultiplexing,
 2) a fasta file containing a genus of interest downloaded from NCBI database. 
 
