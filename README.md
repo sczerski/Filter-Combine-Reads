@@ -1,4 +1,6 @@
 # filter-combine-reads
+This program was designed specifically for Pacbio post-processed reads for use in building a phylogenetic tree.
+
 Required Input:
 1) a fasta file of an OTU from Pacbio post-ccs/demultiplexing,
 2) a fasta file containing a genus of interest downloaded from NCBI database. 
