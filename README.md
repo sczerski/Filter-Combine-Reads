@@ -1,4 +1,4 @@
-# filter-combine-reads
+# filter_combine_reads
 
 This program was designed specifically for Pacbio post-processed reads for use in building a phylogenetic tree.
 
